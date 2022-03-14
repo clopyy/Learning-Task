@@ -1,0 +1,187 @@
+body {
+    background-image: url(Darkgray.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:100%;
+    height: 950px;
+    background-color:Darkgray;
+    background-size:cover;
+    opacity: 95%;
+    margin:0;
+    padding:0;
+}
+#mainbox #firstrow {
+    height:400px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #firstrow .deadpool {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .deadpool img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .deadpool p {
+    font-size:12px;
+}
+#mainbox #firstrow .eternals {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .eternals img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .eternals p {
+    font-size:12px;
+}
+#mainbox #firstrow .firstdaughter {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .firstdaughter img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .firstdaughter p {
+    font-size:12px;
+}
+#mainbox #firstrow .forgotten {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .forgotten img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .forgotten p {
+    font-size:12px;
+}
+#mainbox #firstrow .fractured {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .fractured img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .fractured p {
+    font-size:12px;
+}
+#mainbox #secondrow .houseofwax {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .houseofwax img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .houseofwax p {
+    font-size:12px;
+}
+#mainbox #secondrow .kickass {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .kickass img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .kickass p {
+    font-size:12px;
+}
+#mainbox #secondrow .midnightrunners {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .midnightrunners img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .midnightrunners p {
+    font-size:12px;
+}
+#mainbox #secondrow .shutterisland {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .shutterisland img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .shutterisland p {
+    font-size:12px;
+}
+#mainbox #secondrow .texaschainsawmassacre {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px black;
+    margin-left:3%;
+    float:left;
+    color: beige;
+}
+#mainbox #secondrow .texaschainsawmassacre img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .texaschainsawmassacre p {
+    font-size:12px;
+}
