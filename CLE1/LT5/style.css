@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+body{
+  width: 50%;
+  height: 50vh;
+}
+
+
+.container {
+  width: 20;
+  height:  40vh;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 40px;
+}
+
+.thumbnail  {
+  position: absolute;
+  cursor: 30%;
+  transition: 30%;
+}
+
+.thumbnail li{
+  padding: 40% 0;
+  cursor: pointer;
+  transition: 5.s ease-in-out;
+}
+
+.thumbnail li img{
+  width: 80px;
+}
+
+.thumbnail li:hover{
+  transform: translate(10px);
+}
+
+.image-container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:  translate(-21%, -21%);
+}
+
+.image-container img{
+  width: 400px;
+}
